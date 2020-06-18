@@ -1,0 +1,15 @@
+// Importing the other files
+@import "_secondFile.scss";
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: red;
+  color: white;
+  line-height: 1.5;
+}
